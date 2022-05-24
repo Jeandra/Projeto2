@@ -1,2 +1,2 @@
 # Projeto2
- Patricando HTML e CSS básico
+ Praticando HTML e CSS
